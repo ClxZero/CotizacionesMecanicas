@@ -1,0 +1,14 @@
+th { text-transform: uppercase;}
+td { text-transform: uppercase;}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#fechasection {
+    float: right;
+}
+
+#tablatotales {
+    float: right;
+}
